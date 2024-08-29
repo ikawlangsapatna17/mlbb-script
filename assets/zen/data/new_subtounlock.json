@@ -1,13 +1,13 @@
 {
-    "image": "https://i.imgur.com/167Y3RY.gif",
-    "show": "hide",
+    "image": "https://i.imgur.com/caFQlxA.gif",
+    "show": "show",
     "ref": "nf6Wvb",
-    "l1": "https://youtu.be/i8_A2L1e1qQ?si=CYFAcmNEm6-2Dlq3",
+    "l1": "https://play.google.com/store/apps/details?id=com.zenhub.gfx",
     "ic1": "https://i.imgur.com/Edb0Ss9.png",
-    "l2": "https://youtu.be/BMNAij1durc?si=Ygz3PHsQbOGLrI_x",
+    "l2": "https://play.google.com/store/apps/details?id=com.zenhub.gfx",
     "ic2": "https://github.com/azizboy2007/V33-Pics/raw/main/Youtube.png",
-    "but1": "Watch",
-    "but2": "Watch",
+    "but1": "Tap This to fix",
+    "but2": "Uninstall & Install to fix",
     "download": {
         "enable": "true",
         "link": "https://bit.ly/ZyroMlbbTGYTYs"
