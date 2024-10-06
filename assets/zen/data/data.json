@@ -15,10 +15,12 @@
     "new_app": {
         "enable": true,
         "cancelable": false,
-        "title": "",
-        "message": "",
+        "title": "New App",
+        "message": "Download new app",
         "positive": "Download",
+        "positive_dismissable": true,
         "negative": null,
         "link": "https://play.google.com/store/apps/details?id=com.elfilibustero.origin"
-    }
+    },
+    "wrong_path_link": "https://"
 }
