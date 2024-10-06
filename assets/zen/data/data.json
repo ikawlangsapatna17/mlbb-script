@@ -14,7 +14,7 @@
     },
     "new_app": {
         "enable": true,
-        "cancelable", false,
+        "cancelable": false,
         "title": "",
         "message": "",
         "positive": "Download",
