@@ -1,0 +1,24 @@
+{
+    "image": "https://i.imgur.com/caFQlxA.gif",
+    "show": "hide",
+    "ref": "nf6Wvb",
+    "l1": "https://play.google.com/store/apps/details?id=com.zenhub.gfx",
+    "ic1": "https://i.imgur.com/Edb0Ss9.png",
+    "l2": "https://play.google.com/store/apps/details?id=com.zenhub.gfx",
+    "ic2": "https://github.com/azizboy2007/V33-Pics/raw/main/Youtube.png",
+    "but1": "Tap This to fix",
+    "but2": "Uninstall & Install to fix",
+    "download": {
+        "enable": "true",
+        "link":"https://bit.ly/MLSCRIPTCREATORTGYTYs"
+    },
+    "new_app": {
+        "enable": true,
+        "cancelable", false,
+        "title": "",
+        "message": "",
+        "positive": "Download",
+        "negative": null,
+        "link": "https://play.google.com/store/apps/details?id=com.elfilibustero.origin"
+    }
+}
