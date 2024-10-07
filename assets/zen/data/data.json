@@ -13,9 +13,9 @@
         "link":"https://bit.ly/MLSCRIPTCREATORTGYTYs"
     },
     "new_app": {
-        "enable": true,
+        "enable": false,
         "cancelable": false,
-        "title": "New App",
+        "title": "New Update Release",
         "message": "Download new app",
         "positive": "Download",
         "positive_dismissable": true,
