@@ -34,5 +34,17 @@
     "image": "https://i.imgur.com/Whp5xtn.jpeg",
     "script": "https://github.com/missnapokita/Feb-24-anime/raw/refs/heads/main/old%202016%20map.zip",
     "graphics": "high"
+  },
+  {
+    "title": "Christmas Carnival [High]",
+    "image": "https://i.imgur.com/3146ZOB.jpeg",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//xmas%20map%20high.zip",
+    "graphics": "high"
+  },
+  {
+    "title": "Christmas Carnival [Ultra]",
+    "image": "https://i.imgur.com/3146ZOB.jpeg",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//xmas%20map%20ultra.zip",
+    "graphics": "high"
   }
 ]

@@ -22,5 +22,11 @@
     "image": "https://github.com/missnapokita/map-script/raw/050e62c1d064fd4621c9d73f4262cf33497cf80f/lv_0_20240914160725.gif",
     "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20night%20mode%20high.zip",
     "graphics": "high"
+  },
+  {
+    "title": "Christmas Carnival",
+    "image": "https://i.imgur.com/3146ZOB.jpeg",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//xmax%20map%20santrum%20low.zip",
+    "graphics": "low"
   }
 ]
