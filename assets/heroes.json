@@ -1776,5 +1776,19 @@
       "Fighter",
       ""
     ]
+  },
+  "129": {
+    "head": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1281-portrait.png/revision/latest?cb\u003d20250407160846",
+    "name": "Kalea",
+    "heroid": 129,
+    "roadsortlabel": [
+      "",
+      "Roam"
+    ],
+    "squarehead": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1281-icon.png/revision/latest?cb\u003d20250402015050",
+    "sortlabel": [
+      "Fighter",
+      "Support"
+    ]
   }
 }
