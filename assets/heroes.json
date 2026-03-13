@@ -1736,17 +1736,59 @@
     "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2d61834632c94c00344b2ae0e08354e2.jpg"
   },
   "125": {
-    "head": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero1251-icon.png/revision/latest?cb\u003d20250406000840",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_92/100_595f85bc90df3889c711c6b1f02dc02d.png",
     "name": "Zhuxin",
     "heroid": 125,
     "roadsortlabel": [
       "Mid Lane",
       ""
     ],
-    "squarehead": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero1251-icon.png/revision/latest?cb\u003d20250406000840",
+    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage_92/100_8b6a9cadd1c781a56ae68b2a1ebe8d8f.jpg",
     "sortlabel": [
       "",
       "Mage"
+    ]
+  },
+  "126": {
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+    "name": "Suyou",
+    "heroid": 126,
+    "roadsortlabel": [
+      "",
+      "Jungle"
+    ],
+    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_5e4ca70172332dde18bb1dc158ccc5c8.png",
+    "sortlabel": [
+      "Fighter",
+      "Assassin"
+    ]
+  },
+  "127": {
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
+    "name": "Lukas",
+    "heroid": 127,
+    "roadsortlabel": [
+      "Jungle",
+      "Exp Lane"
+    ],
+    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_20/100_63040edd0cf15b815fcbbb8b2d08d7f7.png",
+    "sortlabel": [
+      "Fighter",
+      ""
+    ]
+  },
+  "128": {
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+    "name": "Kalea",
+    "heroid": 128,
+    "roadsortlabel": [
+      "",
+      "Roam"
+    ],
+    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_64/100_4f3d4649e301c76daf20bd8811f3095c.png",
+    "sortlabel": [
+      "Fighter",
+      "Support"
     ]
   }
 }
