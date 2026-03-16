@@ -1790,5 +1790,19 @@
       "Fighter",
       "Support"
     ]
+  },
+  "129": {
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+    "name": "Zetian",
+    "heroid": 129,
+    "roadsortlabel": [
+      "Mid Lane",
+      ""
+    ],
+    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_1_9_90/100_8d965f05f84621a51f799aeb8fb5f4c4.png",
+    "sortlabel": [
+      "",
+      "Mage"
+    ]
   }
 }
