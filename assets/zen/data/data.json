@@ -13,14 +13,15 @@
         "link":"https://play.google.com/store/apps/details?id=com.jhorico.tools"
     },
     "new_app": {
-        "enable": false,
+        "enable": true,
         "cancelable": false,
         "title": "New Update Release",
-        "message": "Download new app",
+        "message": "A new version of Zenhub GFX has just been released. It’s now faster, more stable, and provides a better overall experience.
+We encourage you to update so you can enjoy the latest features and improvements",
         "positive": "Download",
         "positive_dismissable": true,
         "negative": null,
-        "link": "https://play.google.com/store/apps/details?id=com.elfilibustero.origin"
+        "link": "https://play.google.com/store/apps/details?id=com.nezhub.ph"
     },
     "wrong_path_link": "https://youtu.be/L_nxLXRnNK0?si=jSLCAMK6GlawFSG9"
 }
