@@ -1804,5 +1804,19 @@
       "",
       "Mage"
     ]
+  },
+  "131": {
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
+    "name": "Sora",
+    "heroid": 131,
+    "roadsortlabel": [
+      "",
+      "Exp Lane"
+    ],
+    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
+    "sortlabel": [
+      "Fighter",
+      "Assassin"
+    ]
   }
 }
