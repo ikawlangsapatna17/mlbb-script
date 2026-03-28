@@ -7,7 +7,7 @@
   },
   {
     "title": "Night Mode",
-    "image": "https://github.com/missnapokita/map-script/raw/050e62c1d064fd4621c9d73f4262cf33497cf80f/lv_0_20240914160725.gif",
+    "image": "https://raw.githubusercontent.com/missnapokita/march26cus.img/refs/heads/main/Picsart_26-03-28_22-26-01-801.jpg",
     "script": "https://github.com/missnapokita/march26cus.img/raw/refs/heads/main/night%20santrum%20low.zip",
     "graphics": "low"
   },
@@ -19,20 +19,20 @@
   },
   {
     "title": "Night Mode [High]",
-    "image": "https://github.com/missnapokita/map-script/raw/050e62c1d064fd4621c9d73f4262cf33497cf80f/lv_0_20240914160725.gif",
+    "image": "https://raw.githubusercontent.com/missnapokita/march26cus.img/refs/heads/main/Picsart_26-03-28_22-26-01-801.jpg",
     "script": "https://github.com/missnapokita/march26cus.img/raw/refs/heads/main/santrum%20night%20high.zip",
     "graphics": "high"
   },
   {
     "title": "Night Mode [Ultra]",
-    "image": "https://github.com/missnapokita/map-script/raw/050e62c1d064fd4621c9d73f4262cf33497cf80f/lv_0_20240914160725.gif",
+    "image": "https://raw.githubusercontent.com/missnapokita/march26cus.img/refs/heads/main/Picsart_26-03-28_22-26-01-801.jpg",
     "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/maps/santrum%20night%20ultra.zip",
     "graphics": "high"
 },
   {
     "title": "League of Legends [High]",
     "image": "https://raw.githubusercontent.com/missnapokita/march26cus.img/refs/heads/main/Picsart_26-03-28_09-55-45-550.jpg",
-    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/maps/lol%20high.zip",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/maps/santrum%20night%20ultra.zip",
     "graphics": "high"
   }
 ]
