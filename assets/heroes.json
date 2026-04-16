@@ -1805,6 +1805,20 @@
       "Mage"
     ]
   },
+  "130": {
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+    "name": "Obsidia",
+    "heroid": 130,
+    "roadsortlabel": [
+      "",
+      "Gold Lane"
+    ],
+    "squarehead": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18/100_9c3daef5625bfade5c4cb8a219845dd3.png",
+    "sortlabel": [
+      "",
+      "Marksman"
+    ]
+  },
   "131": {
     "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_40/100_8143d7bbd4318d7c699908e808de885e.png",
     "name": "Sora",
