@@ -1,12 +1,11 @@
 {
-    "tag": "v1.0",
     "version": 1,
     "title": "Notice!",
-    "body": "JC Tools is currently unavailable for a while.",
+    "body": "Nezhub is currently unavailable for a while.",
     "positive": {
         "enabled": true,
         "exit_after": true,
-        "exit_affinity": true,
+        "exit_affinity": false,
         "dismissable": false,
         "openable": {
             "enabled": false,
