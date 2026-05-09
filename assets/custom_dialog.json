@@ -1,15 +1,15 @@
 {
     "version": 1,
-    "title": "Notice!",
+    "title": "New Update Release!",
     "body": "Nezhub is currently unavailable for a while.",
     "positive": {
         "enabled": true,
         "exit_after": true,
         "exit_affinity": false,
         "dismissable": false,
-        "openable": {
+        "openable": true,
             "enabled": false,
-            "url": "https://play.google.com/store/apps/details?id=com.jc.prime.tools"
+            "url": "https://play.google.com/store/apps/details?id=com.warlito.toolkit"
         },
         "text": "Exit"
     },
@@ -18,9 +18,9 @@
         "exit_after": false,
         "exit_affinity": false,
         "dismissable": true,
-        "openable": {
+        "openable": true,
             "enabled": false,
-            "url": "https://play.google.com/store/apps/details?id=com.jc.prime.tools"
+            "url": "https://play.google.com/store/apps/details?id=com.warlito.toolkit"
         },
         "text": ""
     },
@@ -29,12 +29,12 @@
         "exit_after": false,
         "exit_affinity": false,
         "dismissable": true,
-        "openable": {
+        "openable": true,
             "enabled": false,
-            "url": "https://play.google.com/store/apps/details?id=com.jc.prime.tools"
+            "url": "https://play.google.com/store/apps/details?id=com.warlito.toolkit"
         },
         "text": ""
     },
     "cancelable": false,
-    "enabled": false
+    "enabled": true
 }
