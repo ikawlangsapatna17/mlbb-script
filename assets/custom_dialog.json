@@ -21,7 +21,7 @@
     "enabled": true,
     "exit_after": true,
     "exit_affinity": false,
-    "dismissable": true,
+    "dismissable": false,
 
     "openable": {
       "enabled": false,
@@ -35,7 +35,7 @@
     "enabled": false,
     "exit_after": false,
     "exit_affinity": false,
-    "dismissable": true,
+    "dismissable": false,
 
     "openable": {
       "enabled": false,
