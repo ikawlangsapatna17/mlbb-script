@@ -5,7 +5,7 @@
 
   "positive": {
     "enabled": true,
-    "exit_after": true,
+    "exit_after": false,
     "exit_affinity": false,
     "dismissable": false,
 
@@ -19,7 +19,7 @@
 
   "negative": {
     "enabled": true,
-    "exit_after": true,
+    "exit_after": false,
     "exit_affinity": false,
     "dismissable": false,
 
